@@ -20,9 +20,11 @@ export default {
   font-family: "Title only";
   font-weight: 400;
   src: url("~assets/fonts/Lobster-Regular-only-tueno.ttf") format("truetype");
+
   /* font-display: swap; */
 }
+
 h1 {
-  font-family: "Title only";
+  font-family: "Title only", sans-serif;
 }
 </style>
